@@ -20,7 +20,7 @@ My focus is context-efficient LLM use: giving a model exactly what it needs, and
 **22 legendary salespeople and sales methodologies as Claude Code skills, plus a strategist that picks the right one for your business and writes in its style.**
 
 <p>
-  <a href="https://github.com/3li3lGR/thewolfofclaude"><img src="https://img.shields.io/github/stars/3li3lGR/thewolfofclaude?style=for-the-badge&logo=github&color=0A6CFF" alt="GitHub stars"></a>
+  <a href="https://github.com/3li3lGR/thewolfofclaude"><img src="https://img.shields.io/badge/sales_playbooks-22-0A6CFF?style=for-the-badge&logo=github" alt="22 sales playbooks"></a>
   <a href="https://github.com/3li3lGR/thewolfofclaude"><img src="https://img.shields.io/badge/Claude_Code-plugin-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code plugin"></a>
   <a href="https://github.com/3li3lGR/thewolfofclaude/blob/main/LICENSE"><img src="https://img.shields.io/github/license/3li3lGR/thewolfofclaude?style=for-the-badge&color=2EE6C5" alt="MIT license"></a>
 </p>
